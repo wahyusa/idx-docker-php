@@ -1,4 +1,4 @@
-{ pkgs, … }: {
+{ pkgs, ... }: {
   channel = "stable-24.05";
 
   # 1) Docker CLI & Compose
